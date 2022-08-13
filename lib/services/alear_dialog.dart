@@ -17,7 +17,6 @@ Future<String?> aleartDialog(
                   image: AssetImage(assetImage),
                   width: 80,
                   height: 80,
-                  //color: colors,
                 ),
               ),
               Padding(
